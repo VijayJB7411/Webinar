@@ -1,1 +1,2 @@
 "adding 1st line in 3rd file" 
+"some text" 
